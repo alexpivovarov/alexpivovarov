@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on improving my skills in Python, Java, and C, optimizing my sandbox that simulates the Revolut payment system (Kubernetes, Redis, Postgres, GitHub Actions), as well as experimenting with machine learning algorithms.<br><br>I’m looking to collaborate on backend engineering projects, distributed systems, real-time payment processing, DevOps tooling, and high-performance system design.<br><br>Took part in two hackathons: OxBuild (8 March 2025) and the OxBuild Camel-AI / Eigent.AI Hackathon (25 October 2024).
+I’m currently working on improving my skills in Python, Java, and C, optimizing my sandbox that simulates the Revolut payment system (Kubernetes, Redis, Postgres, GitHub Actions), as well as experimenting with machine learning algorithms.<br><br>I’m looking to collaborate on backend engineering projects, distributed systems, real-time payment processing, DevOps tooling, and high-performance system design.<br><br>
 
 
 ## 🌐 Socials:
